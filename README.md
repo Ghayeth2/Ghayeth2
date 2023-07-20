@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghayeth2" alt="ghayeth2" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, microservices and others regarding Java back-end development**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ghayeth2?tab=repositories](https://github.com/Ghayeth2?tab=repositories)
 
