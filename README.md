@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghayeth2&label=Profile%20views&color=0e75b6&style=flat" alt="ghayeth2" /> </p>
 
-- 🔭 I’m currently working on [ATM (Java backend)](https://github.com/Ghayeth2/ATM-m)
+- 🔭 I’m currently working on [Senior project](https://github.com/Ghayeth2/senior_project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ghayeth2?tab=repositories](https://github.com/Ghayeth2?tab=repositories)
 
