@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Labsis](Not available publicly)
 
-- 📫 How to reach me **amalj6570@gmail.com**
+- 📫 How to reach me **ghayeth.msri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
