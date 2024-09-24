@@ -7,7 +7,7 @@ more technical knowledge by contributing to further real-world projects. </h3>
 
 - 🌱 I’m currently learning **Docker**
 
-- 🔭 I'm also working on [ATM](https://github.com/Ghayeth2/ATM.git)
+- 🔭 I'm also working on [ATM](https://github.com/Ghayeth2/ATM.gi) & Labsis
 
 - 📫 How to reach me **ghayeth.msri@gmail.com**
 
