@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghayeth Al Masri</h1>
-<h3 align="center">I am a Computer Engineer, interested in Backend Development. I have a strong background in building well-structured maintainable applications. I have worked on Go, Java and PHP. I aim to obtain practical experiences, expand my knowledge and improve my skills in the field.</h3>
+<h3 align="center">I am a Computer Engineer with almost a year of experience in backend development, building well-structured and 
+maintainable applications. I have worked using Go, Java and PHP on independent and team-based projects. I aim to obtain 
+more technical knowledge by contributing to further real-world projects. </h3>
 
 - 👯 I’m currently a collaborator on Labsis project to implement new features to the system. [private](private)
 
