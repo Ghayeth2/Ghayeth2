@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ATM](https://github.com/Ghayeth2/ATM.git)
 
-- 🌱 I’m currently learning **JUnit, TDD, BDD, DDD & Integration testing**
+- 🌱 I’m currently learning **TDD, BDD, DDD & Integration testing**
 
 - 📫 How to reach me **ghayeth.msri@gmail.com**
 
