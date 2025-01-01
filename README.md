@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [ATM](https://github.com/Ghayeth2/ATM.git)
 - I'm contributing on Labsis project (repo is private)
 
-- 🌱 I’m currently learning **TDD, BDD, DDD & Integration testing**
+- 🌱 I’m currently learning **TDD, BDD, DDD**
 
 - 📫 How to reach me **ghayeth.msri@gmail.com**
 
