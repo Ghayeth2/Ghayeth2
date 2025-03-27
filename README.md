@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghayeth Al Masri</h1>
 <h3 align="center">I am a backend developer.</h3>
 
-- 🔭 I’m currently working on [ATM](https://github.com/Ghayeth2/ATM.git)
+- 🔭 I’m currently working on my portfolio app.
 
 - 📫 How to reach me **ghayeth.msri@gmail.com**
 
